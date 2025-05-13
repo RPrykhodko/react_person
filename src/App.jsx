@@ -19,7 +19,7 @@ export const olya = {
 
 export const alex = {
   name: 'Alex',
-  age: 25,
+  age: 0,
   sex: 'm',
   isMarried: false,
 };
